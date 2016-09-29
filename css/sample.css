@@ -1,0 +1,57 @@
+body
+{
+	margin: 0;
+	padding:0;
+}
+#header
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 20%;
+	background-color: #0E3839;
+}
+#LogoName
+
+{
+	position: absolute;
+	color: white;
+	left: 20%;
+	top: 20%;
+	width: 80%;
+	height: 50%;
+	font-size: 70px;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#footer
+{
+	position: absolute;
+	top: 90%;
+	left: 0;
+	width: 100%;
+	height: 10%;
+	background-color: #0E3839;
+}

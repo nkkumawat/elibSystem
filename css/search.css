@@ -1,0 +1,26 @@
+#table
+{
+	position: absolute;
+	top: 20%;
+	left: 10%;
+	border: 2px solid black;
+
+}
+.tablerow
+{
+	width: 100%;
+
+}
+.tabledata
+{
+	/*width: 100px;*/
+	border: 2px solid black;		
+	
+	font-family: sans-serif;
+	font-weight: bold;
+}
+.tabledata a
+{
+	color: blue;
+		text-align: center;
+}
